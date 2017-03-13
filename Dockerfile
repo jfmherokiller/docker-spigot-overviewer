@@ -1,6 +1,6 @@
 FROM nimmis/java:openjdk-8-jdk
 
-#MAINTAINER nimmis <kjell.havneskold@gmail.com>
+MAINTAINER nimmis <kjell.havneskold@gmail.com>
 
 # SPIGOT_HOME default directory for SPIGOT-server
 # SPIGOT_VER  default minecraft version to compile
